@@ -16,7 +16,7 @@ return c.trim();
 	public static void main(String[] args)
  {
   int t,i,j=0;
-  String a="this is line one hello, welcome to programming Code Quotient - Get better at coding this is last line of file.",b;
+  String a="This is line one Hello, welcome to programming Code Quotient - Get better at coding this is last line of file.",b;
   Scanner s=new Scanner(System.in);
     b=capitalizeFirstChar(a);
     System.out.println(b);
